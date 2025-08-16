@@ -1,2 +1,3 @@
 ##Welcome to another git folder
-## I updated this text from the another-git folder's feature-branch
+## I updated this text from the another-git folder's dev-djays branch for testing
+merge stuff!
