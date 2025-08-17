@@ -1,3 +1,3 @@
-##Welcome to another git folder
+##Welcome to another git folder lets gitty up from dev-jsm branch
 ## I updated this text from the another-git folder's dev-djays branch for testing
-merge stuff!
+### This is to ensure both dev-djays and dev-jsm conflicts are resolved
